@@ -5,6 +5,7 @@
 </picture>
 
 # 💫 About Me:
+
 Hi, I’m Andika! 👋<br>Currently studying at POLMAN 🎓<br>—“Everblue - Omoitake” 🎶----<br><br>I’m diving into web programming 🌐<br>I’m exploring game development 🎮<br>I’m also learning Android app development 📱<br>
 
 
