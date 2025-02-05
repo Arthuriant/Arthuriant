@@ -4,9 +4,12 @@
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Arthuriant&screen_effect=false&theme=fuji&hide=avatar&dithering=true">
 </picture>
 
-# 💫 About Me:
 
-Hi, I’m Andika! 👋<br>Currently studying at POLMAN 🎓<br>—“Everblue - Omoitake” 🎶----<br><br>I’m diving into web programming 🌐<br>I’m exploring game development 🎮<br>I’m also learning Android app development 📱<br>
+
+# <img src="https://github.com/user-attachments/assets/945a7a4b-8825-46ed-87bd-32b83ecaeccc" width="40"> About Me:
+
+Hi, I’m Arthur! 👋<br>Currently studying at POLMAN 🎓<br>—“Everblue - Omoitake” 🎶----<br><br>I’m diving into web programming 🌐<br>I’m exploring game development 🎮<br>I’m also learning Android app development 📱<br>
+
 
 
 # 💻 Tech Stack:
