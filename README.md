@@ -1,3 +1,9 @@
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuciNyan/LuciNyan/output/github-stats.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuciNyan/LuciNyan/output/github-stats-dark.png">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=LuciNyan&screen_effect=false&theme=fuji&hide=avatar&dithering=true">
+</picture>
+
 # 💫 About Me:
 Hi, I’m Andika! 👋<br>Currently studying at POLMAN 🎓<br>—“Everblue - Omoitake” 🎶----<br><br>I’m diving into web programming 🌐<br>I’m exploring game development 🎮<br>I’m also learning Android app development 📱<br>
 
